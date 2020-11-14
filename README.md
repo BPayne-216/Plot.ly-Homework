@@ -7,12 +7,12 @@ Plot.ly Homework - Belly Button Biodiversity
 
 Intro to this project
 
-https://bpayne-216.github.io/javascript-challenge/
+https://bpayne-216.github.io/Plot.ly-Homework/
 
 
-This project used javascript to query a given field (table) of UFO data.  HTML, css, and bootstrap were used to create the website.
+This project used javascript and a JSON file to create a robust, analytical website based on samples of belly button microbes.  HTML, D3, Plot.ly, and bootstrap were used to create the website.
 
-The motivation of this project is to create an interactive website that allows the visitor to the site to query the table information based on: date/time, city, state, country, shape.
+The motivation of this project is utilize Plot.ly graphing inside of Javascript to create charts that illustrate the details of the Belly Button samples.  In terms of the 
 Level I: this allows visitor to query by typing in the date and retrieving all table elements that match that date.
 Level II: this is an interactive filter that allows the visitor to query the table elements based on (5) elements: date/time, city, state, country, and shape.  A button creates the query and any combination of the (5) filters may be utilized.
 
