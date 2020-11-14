@@ -1,4 +1,6 @@
 # Plot.ly-Homework
+
+
 Plot.ly Homework - Belly Button Biodiversity
 ![image of HW](https://github.com/BPayne-216/Plot.ly-Homework/blob/main/Images/bacteria.jpg)
 
